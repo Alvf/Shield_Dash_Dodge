@@ -8,7 +8,8 @@
         "c4ec656f-58a5-4855-a340-440f69625542",
         "878ea109-72d5-45ab-98b7-0b23becf1663",
         "ee06d9c2-129b-4dcb-ace4-b3399e997d4f",
-        "cb8b2a49-63bc-44a2-af0c-f7dde28b7334"
+        "cb8b2a49-63bc-44a2-af0c-f7dde28b7334",
+        "7f712639-9003-44d3-9bf1-adf948dd203b"
     ],
     "filterType": "GMObject",
     "folderName": "Arena",

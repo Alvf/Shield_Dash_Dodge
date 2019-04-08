@@ -6,3 +6,7 @@ yspeed = 0;
 velo = 7;
 
 dashamp = 100;
+
+
+theta_goal = 0;
+rotatespeed = 0.2;

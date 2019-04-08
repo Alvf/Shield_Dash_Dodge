@@ -207,6 +207,22 @@
             }
         },
         {
+            "Key": "7cb23977-6ef8-4913-8f70-d07a819bedd6",
+            "Value": {
+                "id": "063bd8ed-aa07-4c7a-91ad-77d4f4b5e8dd",
+                "resourcePath": "views\\7cb23977-6ef8-4913-8f70-d07a819bedd6.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7f712639-9003-44d3-9bf1-adf948dd203b",
+            "Value": {
+                "id": "3cf0d33e-335e-42a4-afe2-5b7778363f53",
+                "resourcePath": "objects\\Attack_mapper\\Attack_mapper.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "84ca16d1-753e-4f36-a236-972614026ca7",
             "Value": {
                 "id": "3173554b-bc93-4932-a4d7-af42a10201e6",
@@ -268,6 +284,14 @@
                 "id": "ac990604-c587-4052-a397-dbb2d08c623c",
                 "resourcePath": "objects\\PlayerChar\\PlayerChar.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c78c1ff6-a88a-4b4f-865e-1a0402038df5",
+            "Value": {
+                "id": "d158298e-8a24-4246-8724-2e0a32ea8afb",
+                "resourcePath": "sprites\\Morph2Triangle\\Morph2Triangle.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

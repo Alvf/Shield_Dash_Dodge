@@ -7,3 +7,8 @@ yspeed = 0;
 theta = point_direction(x,y,mouse_x,mouse_y)
 x+= dashamp*cos(theta*pi/180);
 y-= dashamp*sin(theta*pi/180);
+
+sprite_index = PlayerSprite
+image_speed = 1
+
+image_angle = 0
