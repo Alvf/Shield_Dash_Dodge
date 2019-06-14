@@ -5,7 +5,7 @@ xspeed = 0;
 yspeed = 0;
 velo = 7;
 
-dashamp = 100;
+dashamp = 175;
 
 
 theta_goal = 0;

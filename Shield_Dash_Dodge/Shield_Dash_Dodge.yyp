@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0d2609b8-50e2-4a5b-97cf-afde4d6bb1f6",
+            "Value": {
+                "id": "5313e4fa-be99-42c8-9501-ea91b8f6107c",
+                "resourcePath": "sprites\\sprite7\\sprite7.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "110edb6e-4895-41c1-8a51-846130cde524",
             "Value": {
                 "id": "c02c6243-32e2-4c85-9dfc-977a32b72c1d",
@@ -327,6 +335,14 @@
             }
         },
         {
+            "Key": "ea3ba551-34d2-4ab4-b30f-0896a5e58f6c",
+            "Value": {
+                "id": "3bc05586-85c5-4014-bd54-b4f66951e363",
+                "resourcePath": "sprites\\sprite8\\sprite8.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ea97fe67-0d40-4077-a8bd-34768fb8409c",
             "Value": {
                 "id": "68e4e1df-c930-4bc1-9210-7ecc15d5a274",
@@ -340,14 +356,6 @@
                 "id": "98cc07f3-2766-45f6-aad0-dcc933693641",
                 "resourcePath": "objects\\TimeDilator\\TimeDilator.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "ef609095-8d75-46b3-9051-49ab7c38a4fb",
-            "Value": {
-                "id": "6e319d58-2ef0-49c0-8134-945b3f174721",
-                "resourcePath": "views\\ef609095-8d75-46b3-9051-49ab7c38a4fb.yy",
-                "resourceType": "GMFolder"
             }
         },
         {

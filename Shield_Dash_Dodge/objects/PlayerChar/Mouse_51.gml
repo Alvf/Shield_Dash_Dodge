@@ -1,7 +1,7 @@
 /// @description Charge dash
 // You can write your code in this editor
 
-dashamp += 2
+dashamp += 3
 
 
 xspeed = 0
