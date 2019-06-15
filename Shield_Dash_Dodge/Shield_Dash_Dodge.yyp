@@ -39,14 +39,6 @@
             }
         },
         {
-            "Key": "0d2609b8-50e2-4a5b-97cf-afde4d6bb1f6",
-            "Value": {
-                "id": "5313e4fa-be99-42c8-9501-ea91b8f6107c",
-                "resourcePath": "sprites\\sprite7\\sprite7.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "110edb6e-4895-41c1-8a51-846130cde524",
             "Value": {
                 "id": "c02c6243-32e2-4c85-9dfc-977a32b72c1d",
@@ -207,6 +199,14 @@
             }
         },
         {
+            "Key": "71c86a89-d57f-498b-ad57-c2b6a9fdcabf",
+            "Value": {
+                "id": "26371f2d-dd97-4ad9-b0e5-7487cf47ca4f",
+                "resourcePath": "sprites\\PlayerSpriteInv\\PlayerSpriteInv.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "791d89f7-e25b-4abc-b2ee-01a3a8e3b791",
             "Value": {
                 "id": "7defd969-54cc-45eb-bfab-7699255af735",
@@ -276,6 +276,14 @@
                 "id": "d42ff589-fe4d-473d-a222-7f70f2930088",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "ab5cbf6b-2f66-492e-97d9-2fe993be5191",
+            "Value": {
+                "id": "b14d6bc3-3da3-4c03-bc5f-f3e68d3a0110",
+                "resourcePath": "objects\\ScreenSizer\\ScreenSizer.yy",
+                "resourceType": "GMObject"
             }
         },
         {

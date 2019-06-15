@@ -10,3 +10,5 @@ dashamp = 175;
 
 theta_goal = 0;
 rotatespeed = 0.2;
+
+alarm[0] = 5*room_speed

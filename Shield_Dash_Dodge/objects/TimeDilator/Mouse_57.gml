@@ -2,5 +2,5 @@
 // You can write your code in this editor
 
 with(Enemy){
-	velocity = 5
+	velocity = velocity*2
 }
