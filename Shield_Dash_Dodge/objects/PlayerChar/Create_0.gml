@@ -3,6 +3,8 @@
 
 xspeed = 0;
 yspeed = 0;
+acel = 0.5;
+dc = 1.3;
 velo = 7;
 
 dashamp = 175;
