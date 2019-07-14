@@ -3,11 +3,11 @@
 
 xspeed = 0;
 yspeed = 0;
-acel = 0.5;
-dc = 1.3;
+acel = 0.6;
+dc = 1.1;
 velo = 7;
 
-dashamp = 175;
+dashamp = 200;
 
 
 theta_goal = 0;

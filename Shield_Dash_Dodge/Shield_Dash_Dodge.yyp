@@ -223,6 +223,14 @@
             }
         },
         {
+            "Key": "7ed1633a-e351-4418-b2e2-43aae740d293",
+            "Value": {
+                "id": "966c13af-af36-41f2-9529-c197730cdbba",
+                "resourcePath": "sprites\\spr_spawning\\spr_spawning.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7f712639-9003-44d3-9bf1-adf948dd203b",
             "Value": {
                 "id": "3cf0d33e-335e-42a4-afe2-5b7778363f53",

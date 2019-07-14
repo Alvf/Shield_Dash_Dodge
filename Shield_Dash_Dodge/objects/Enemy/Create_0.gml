@@ -1,4 +1,6 @@
 /// @description params
 // You can write your code in this editor
 
-velocity = 4;
+velocity = 0;
+active = false;
+sprite_index = spr_spawning;
