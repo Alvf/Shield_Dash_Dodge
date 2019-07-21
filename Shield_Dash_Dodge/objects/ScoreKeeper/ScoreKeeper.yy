@@ -1,28 +1,28 @@
 {
-    "id": "ee06d9c2-129b-4dcb-ace4-b3399e997d4f",
+    "id": "b4a5de88-5e82-42d7-824c-2b3ea3b6df43",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "TimeDilator",
+    "name": "ScoreKeeper",
     "eventList": [
         {
-            "id": "30d48ae1-50fd-4041-8613-4ada1aeb8b0b",
+            "id": "ec237719-8052-4f39-a5f5-511e17be2447",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 51,
-            "eventtype": 6,
-            "m_owner": "ee06d9c2-129b-4dcb-ace4-b3399e997d4f"
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "b4a5de88-5e82-42d7-824c-2b3ea3b6df43"
         },
         {
-            "id": "add1f5e0-d48c-417e-8d9f-0d4611c704b2",
+            "id": "9d5cda97-6642-4f61-a81d-e049735aa7cf",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 57,
-            "eventtype": 6,
-            "m_owner": "ee06d9c2-129b-4dcb-ace4-b3399e997d4f"
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "b4a5de88-5e82-42d7-824c-2b3ea3b6df43"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",

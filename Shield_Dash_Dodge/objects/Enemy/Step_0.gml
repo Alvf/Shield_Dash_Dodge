@@ -9,7 +9,8 @@ image_angle = theta;
 if(sprite_index = spr_spawning
 && image_index >= image_number-1){
 sprite_index = sprite5;
-velocity = 4;
+nat_velocity = 4;
+velocity = nat_velocity;
 active = true;
 }
 

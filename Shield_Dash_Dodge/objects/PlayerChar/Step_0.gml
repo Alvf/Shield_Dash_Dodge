@@ -18,6 +18,8 @@ if(y<11){
 }
 
 if(mouse_check_button(mb_right)){
+
 	var theta = lerp(image_angle,theta_goal,rotatespeed)
 	image_angle = theta
+
 }
