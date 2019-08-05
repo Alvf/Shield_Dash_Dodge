@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "20c77191-d126-48f6-8842-0099157fd396",
+            "Value": {
+                "id": "3bfd1ec5-15b3-41fc-984a-466cba5477d0",
+                "resourcePath": "views\\20c77191-d126-48f6-8842-0099157fd396.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "23ff7389-debc-41bf-9263-e7a8da53fb9f",
             "Value": {
                 "id": "6ad35107-9d16-47f0-8f34-47b492bced29",
@@ -138,7 +146,7 @@
             "Key": "36fcb98e-06aa-4891-8729-bec893c23825",
             "Value": {
                 "id": "be986cd6-04d9-426b-908d-4df251a674a4",
-                "resourcePath": "objects\\object10\\object10.yy",
+                "resourcePath": "objects\\BackButton\\BackButton.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -300,6 +308,14 @@
                 "id": "405d7e4b-277b-4ad3-97e5-03250ddd33d5",
                 "resourcePath": "sprites\\WASD\\WASD.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "95889eca-3f17-4d44-8d8c-4b8e51e069c5",
+            "Value": {
+                "id": "3ad46f02-3e79-451e-8309-6de03da5d670",
+                "resourcePath": "objects\\WASD_Hilighter\\WASD_Hilighter.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -467,6 +483,14 @@
             "Value": {
                 "id": "3301d306-81eb-4d39-b3bf-e24126975046",
                 "resourcePath": "sprites\\sprite11\\sprite11.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fa9b6e69-c0f3-4f7c-bb51-0f06c681cb84",
+            "Value": {
+                "id": "f4dc0eb6-7bc1-4920-8ac4-39ec7bc30a34",
+                "resourcePath": "sprites\\sprite14\\sprite14.yy",
                 "resourceType": "GMSprite"
             }
         }

@@ -1,18 +1,18 @@
 {
-    "id": "509e0821-f27c-4644-b246-8b4576145bde",
+    "id": "95889eca-3f17-4d44-8d8c-4b8e51e069c5",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Intructions",
+    "name": "WASD_Hilighter",
     "eventList": [
         {
-            "id": "70b9b04f-e64e-4b50-81f4-2680abe70919",
+            "id": "2893cf4b-77fe-4058-8118-f704b3942d60",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 7,
-            "eventtype": 6,
-            "m_owner": "509e0821-f27c-4644-b246-8b4576145bde"
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "95889eca-3f17-4d44-8d8c-4b8e51e069c5"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "c86979a8-88f2-411f-ad1a-1d7a4ed221d3",
+    "spriteId": "9434c3f5-4922-4adf-b733-b011aaf88e14",
     "visible": true
 }

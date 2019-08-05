@@ -2,7 +2,7 @@
     "id": "36fcb98e-06aa-4891-8729-bec893c23825",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object10",
+    "name": "BackButton",
     "eventList": [
         {
             "id": "ac008c43-399c-4466-8785-d531a33bdbec",
@@ -10,7 +10,7 @@
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
+            "enumb": 7,
             "eventtype": 6,
             "m_owner": "36fcb98e-06aa-4891-8729-bec893c23825"
         }
