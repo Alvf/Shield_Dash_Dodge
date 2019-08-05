@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "565ad052-b7ca-47ca-bad8-7a9f51488e25",
+            "Value": {
+                "id": "357bd234-dd08-4a0a-b3fa-72b08876b263",
+                "resourcePath": "objects\\Mouse_Hilighter\\Mouse_Hilighter.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5fbe8b3d-e290-438b-bdae-a99a88e55ba2",
             "Value": {
                 "id": "bee07852-4e87-49ff-ad58-a47898a5e344",
@@ -324,6 +332,14 @@
                 "id": "7379395d-37ce-4cfb-ad2a-3b6a36f50ecc",
                 "resourcePath": "views\\9830513b-df2a-4f73-bd78-54ba23a92109.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9dff3db2-e686-459d-8ee6-b9f31c5b0aa7",
+            "Value": {
+                "id": "8eeaa00e-7689-4d94-9ffa-47146db48cf2",
+                "resourcePath": "objects\\Key_Simulator\\Key_Simulator.yy",
+                "resourceType": "GMObject"
             }
         },
         {
