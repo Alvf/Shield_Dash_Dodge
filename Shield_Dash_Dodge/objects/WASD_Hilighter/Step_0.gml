@@ -1,6 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+if(!lock){
 if(keyboard_check(ord("W"))){
 	image_index =1;
 }
@@ -15,4 +16,5 @@ else if(keyboard_check(ord("D"))){
 }
 else{
 	image_index = 0;
+}
 }

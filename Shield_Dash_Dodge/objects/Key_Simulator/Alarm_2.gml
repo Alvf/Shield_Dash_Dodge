@@ -1,6 +1,13 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-alarm[3] = 0.5*room_speed;
-keyboard_key_release(ord("A"))
-keyboard_key_press(ord("S"))
+with(WASD_Hilighter){
+	image_index = 3;
+}
+with(PlayerChar){
+	event_perform(ev_keyrelease,ord("A"))
+	for(var i =1; i<=100;i++){
+		event_perform(ev_keyboard,ord("S"))
+	}
+}
+alarm[3] = 0.75*room_speed

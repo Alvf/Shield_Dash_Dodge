@@ -5,16 +5,6 @@
     "name": "Key_Simulator",
     "eventList": [
         {
-            "id": "169673b0-1dab-4a2f-8f0b-122c67f24f02",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 2,
-            "m_owner": "9dff3db2-e686-459d-8ee6-b9f31c5b0aa7"
-        },
-        {
             "id": "2bd76f6d-6e1e-45cf-bc2d-a5d7f651dc90",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -25,7 +15,27 @@
             "m_owner": "9dff3db2-e686-459d-8ee6-b9f31c5b0aa7"
         },
         {
-            "id": "cfda0d14-0912-4bb9-8e76-5401c5f775c7",
+            "id": "c8f1f862-16b1-4acb-af68-ac802a1214b8",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "9dff3db2-e686-459d-8ee6-b9f31c5b0aa7"
+        },
+        {
+            "id": "3057a512-734e-45aa-ac37-996eccba84e9",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "9dff3db2-e686-459d-8ee6-b9f31c5b0aa7"
+        },
+        {
+            "id": "fbffeac8-e09e-466f-890a-c327bb523110",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -35,7 +45,7 @@
             "m_owner": "9dff3db2-e686-459d-8ee6-b9f31c5b0aa7"
         },
         {
-            "id": "2b83a183-be5e-46c3-96d9-38fc699f9117",
+            "id": "9c7b6c11-c4fc-4993-8a9f-8f4a86170ab6",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -45,7 +55,7 @@
             "m_owner": "9dff3db2-e686-459d-8ee6-b9f31c5b0aa7"
         },
         {
-            "id": "17f3161e-ae82-4639-8e8a-23b1d5055f69",
+            "id": "56da7a8f-bb05-410a-8ade-bfd7dccd38ab",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -55,7 +65,7 @@
             "m_owner": "9dff3db2-e686-459d-8ee6-b9f31c5b0aa7"
         },
         {
-            "id": "f8e03ab5-a77c-4633-a72b-b6e8fc7a5c07",
+            "id": "5b270959-68d6-43cb-be9a-01cc45326a22",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,

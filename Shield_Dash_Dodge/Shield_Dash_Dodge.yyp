@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "564977b3-94b6-49fc-bdc3-6751f91db5a8",
+            "Value": {
+                "id": "718071e2-d065-4d45-b35e-ec31244cb3b9",
+                "resourcePath": "objects\\Mouse_Simulator\\Mouse_Simulator.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "565ad052-b7ca-47ca-bad8-7a9f51488e25",
             "Value": {
                 "id": "357bd234-dd08-4a0a-b3fa-72b08876b263",
